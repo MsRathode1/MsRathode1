@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Meharwan Singh Rathore
 #### I am Fullstack Developer
-![I am Fullstack Developer]
 
 A self-motivated and self Driven Developer who loves to develop Complex web Applications with Great UI
 
